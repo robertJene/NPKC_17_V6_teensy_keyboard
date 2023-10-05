@@ -1,6 +1,9 @@
 # NPKC_17_V6_teensy_keyboard
 17-key keyboard with multiple layers
 
+Go here for pictures:
+https://github.com/robertJene/NPKC_17_V6_teensy_keyboard/issues/1
+
 This is provided as an example, please see the license file.
 
 Purpose:
@@ -51,7 +54,4 @@ LEDS: - O - O
 Layer 10(9)
 LEDS: - - O O
 
-![20231002_075923](https://github.com/robertJene/NPKC_17_V6_teensy_keyboard/assets/131090265/1240cf41-d74f-4a10-8819-33cb100c97af)
-![20231002_184533 (1)](https://github.com/robertJene/NPKC_17_V6_teensy_keyboard/assets/131090265/74008360-6a28-4b3e-b754-29f98f1d0f79)
-![20231002_080040 (1)](https://github.com/robertJene/NPKC_17_V6_teensy_keyboard/assets/131090265/965cfdb8-d477-491b-a4db-3e764a06a842)
-![20231002_075950](https://github.com/robertJene/NPKC_17_V6_teensy_keyboard/assets/131090265/1929578c-246a-43e2-b93e-f23dc343fa74)
+
