@@ -1,10 +1,11 @@
 # NPKC_17_V6_teensy_keyboard
 17-key keyboard with multiple layers
 
-Go here for pictures:
-https://github.com/robertJene/NPKC_17_V6_teensy_keyboard/issues/1
+Go here for pictures: https://github.com/robertJene/NPKC_17_V6_teensy_keyboard/issues/1
 
 This is provided as an example, please see the license file.
+
+It was written in arduino-2.2.1 with Teensy library 1.58.1
 
 Purpose:
 a 17-key keypad made from a keyboard switch tester and a Teensy 3.2
